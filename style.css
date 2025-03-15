@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightblue;
+
+}
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    box-shadow: 10px 10px 10px #fcb0cb;
+    background-color: white;
+}
+
+th, td{
+    border: 2px pink;
+    padding: 10px;
+    text-align: center;
+}
